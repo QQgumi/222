@@ -1,0 +1,29 @@
+#awd = 5
+#print(awd)
+#awd = 6
+#print(awd)
+
+#b = a + 2
+#a = 3
+#print(b)
+
+#a = input('fff:  ')
+#print(a)
+
+#a = input("input:  ")
+#a = 123
+#b = int(a)
+#print(a * 2)
+
+
+#a = int(input())
+#c = int(input())
+#b = int(input())
+#D = b**2 - 4*a*c
+#print(D)
+#if D < 0:
+   # print('нет корней')
+ #if D > 0:
+   # print('2 корня')
+ #if D == 0:
+   # print('1 корень')
